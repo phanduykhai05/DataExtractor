@@ -1,5 +1,4 @@
 #https://github.com/danghuutruong/BrowserDataExtractor
-
 import os
 import sqlite3
 import json
