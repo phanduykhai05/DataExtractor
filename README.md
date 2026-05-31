@@ -1,7 +1,6 @@
 EN
 ---
 I came back and worked continued
-
 ### Guide for Using BrowserDataExtractor.py
 Note that this code only works to retrieve passwords that you have saved in your preferred browser, so it will only access those saved passwords.
 
